@@ -1,6 +1,7 @@
-ls Films and Productions 
+TechMedia Films and Productions
+ls a Films and Productions Company based in Lagos Nigeria. 
 
-This is a website for prospects client to reachout to the company for Projects or Collaborations.
+This is a website for prospective client to reachout to the company for Projects or Collaborations.
 
 Features in the Project
 - Home
